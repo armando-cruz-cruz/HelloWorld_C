@@ -1,6 +1,9 @@
+/* Autor Armando Cruz Cruz
+
+*/
 #include<stdio.h>
 
 int main() {
-    printf("Â¡Hola mundo!!! \n");
+    printf("¡Hola mundo!!! \n");
     return 0;
 }
